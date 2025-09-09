@@ -15,7 +15,7 @@ pip freeze > requirements.txt
 virtualenv -p python3 venv
 source venv/bin/activate
 
-No ambiente Windows
+ ambiente Windows
 ====================
 # Criar o ambiente virtual
 pip install virtualenv
